@@ -1,0 +1,16 @@
+C:\Users\Can\source\repos\KodluyoruzBootcamp\Lessons\switchCase\switchCase\bin\Debug\net5.0\switchCase.exe
+C:\Users\Can\source\repos\KodluyoruzBootcamp\Lessons\switchCase\switchCase\bin\Debug\net5.0\switchCase.deps.json
+C:\Users\Can\source\repos\KodluyoruzBootcamp\Lessons\switchCase\switchCase\bin\Debug\net5.0\switchCase.runtimeconfig.json
+C:\Users\Can\source\repos\KodluyoruzBootcamp\Lessons\switchCase\switchCase\bin\Debug\net5.0\switchCase.runtimeconfig.dev.json
+C:\Users\Can\source\repos\KodluyoruzBootcamp\Lessons\switchCase\switchCase\bin\Debug\net5.0\switchCase.dll
+C:\Users\Can\source\repos\KodluyoruzBootcamp\Lessons\switchCase\switchCase\bin\Debug\net5.0\ref\switchCase.dll
+C:\Users\Can\source\repos\KodluyoruzBootcamp\Lessons\switchCase\switchCase\bin\Debug\net5.0\switchCase.pdb
+C:\Users\Can\source\repos\KodluyoruzBootcamp\Lessons\switchCase\switchCase\obj\Debug\net5.0\switchCase.csproj.AssemblyReference.cache
+C:\Users\Can\source\repos\KodluyoruzBootcamp\Lessons\switchCase\switchCase\obj\Debug\net5.0\switchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\source\repos\KodluyoruzBootcamp\Lessons\switchCase\switchCase\obj\Debug\net5.0\switchCase.AssemblyInfoInputs.cache
+C:\Users\Can\source\repos\KodluyoruzBootcamp\Lessons\switchCase\switchCase\obj\Debug\net5.0\switchCase.AssemblyInfo.cs
+C:\Users\Can\source\repos\KodluyoruzBootcamp\Lessons\switchCase\switchCase\obj\Debug\net5.0\switchCase.csproj.CoreCompileInputs.cache
+C:\Users\Can\source\repos\KodluyoruzBootcamp\Lessons\switchCase\switchCase\obj\Debug\net5.0\switchCase.dll
+C:\Users\Can\source\repos\KodluyoruzBootcamp\Lessons\switchCase\switchCase\obj\Debug\net5.0\ref\switchCase.dll
+C:\Users\Can\source\repos\KodluyoruzBootcamp\Lessons\switchCase\switchCase\obj\Debug\net5.0\switchCase.pdb
+C:\Users\Can\source\repos\KodluyoruzBootcamp\Lessons\switchCase\switchCase\obj\Debug\net5.0\switchCase.genruntimeconfig.cache
