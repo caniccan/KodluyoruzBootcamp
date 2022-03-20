@@ -1,0 +1,16 @@
+C:\Users\Can\source\repos\KodluyoruzBootcamp\Lessons\AndOrCondition\AndOrCondition\bin\Debug\net5.0\AndOrCondition.exe
+C:\Users\Can\source\repos\KodluyoruzBootcamp\Lessons\AndOrCondition\AndOrCondition\bin\Debug\net5.0\AndOrCondition.deps.json
+C:\Users\Can\source\repos\KodluyoruzBootcamp\Lessons\AndOrCondition\AndOrCondition\bin\Debug\net5.0\AndOrCondition.runtimeconfig.json
+C:\Users\Can\source\repos\KodluyoruzBootcamp\Lessons\AndOrCondition\AndOrCondition\bin\Debug\net5.0\AndOrCondition.runtimeconfig.dev.json
+C:\Users\Can\source\repos\KodluyoruzBootcamp\Lessons\AndOrCondition\AndOrCondition\bin\Debug\net5.0\AndOrCondition.dll
+C:\Users\Can\source\repos\KodluyoruzBootcamp\Lessons\AndOrCondition\AndOrCondition\bin\Debug\net5.0\ref\AndOrCondition.dll
+C:\Users\Can\source\repos\KodluyoruzBootcamp\Lessons\AndOrCondition\AndOrCondition\bin\Debug\net5.0\AndOrCondition.pdb
+C:\Users\Can\source\repos\KodluyoruzBootcamp\Lessons\AndOrCondition\AndOrCondition\obj\Debug\net5.0\AndOrCondition.csproj.AssemblyReference.cache
+C:\Users\Can\source\repos\KodluyoruzBootcamp\Lessons\AndOrCondition\AndOrCondition\obj\Debug\net5.0\AndOrCondition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\source\repos\KodluyoruzBootcamp\Lessons\AndOrCondition\AndOrCondition\obj\Debug\net5.0\AndOrCondition.AssemblyInfoInputs.cache
+C:\Users\Can\source\repos\KodluyoruzBootcamp\Lessons\AndOrCondition\AndOrCondition\obj\Debug\net5.0\AndOrCondition.AssemblyInfo.cs
+C:\Users\Can\source\repos\KodluyoruzBootcamp\Lessons\AndOrCondition\AndOrCondition\obj\Debug\net5.0\AndOrCondition.csproj.CoreCompileInputs.cache
+C:\Users\Can\source\repos\KodluyoruzBootcamp\Lessons\AndOrCondition\AndOrCondition\obj\Debug\net5.0\AndOrCondition.dll
+C:\Users\Can\source\repos\KodluyoruzBootcamp\Lessons\AndOrCondition\AndOrCondition\obj\Debug\net5.0\ref\AndOrCondition.dll
+C:\Users\Can\source\repos\KodluyoruzBootcamp\Lessons\AndOrCondition\AndOrCondition\obj\Debug\net5.0\AndOrCondition.pdb
+C:\Users\Can\source\repos\KodluyoruzBootcamp\Lessons\AndOrCondition\AndOrCondition\obj\Debug\net5.0\AndOrCondition.genruntimeconfig.cache
