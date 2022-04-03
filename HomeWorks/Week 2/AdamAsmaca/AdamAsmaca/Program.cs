@@ -40,7 +40,7 @@ namespace AdamAsmaca
                         {
                             puzzle = replaceStarToLetter(selectedWord, puzzle, letter);
                             Console.WriteLine(puzzle);
-                            //tryWord--;
+                            
 
                         }
                         else
